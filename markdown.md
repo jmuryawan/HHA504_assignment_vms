@@ -1,10 +1,12 @@
 ### Screenshots of the VM creation and cost monitoring processes in both Azure and GCP.
 #### -Azure-
 <img width="1470" alt="Screenshot 2024-09-11 at 14 54 28" src="https://github.com/user-attachments/assets/b18fb4b0-b8be-4adc-8a9c-c7e08dfe44ed">
+<img width="1470" alt="Screenshot 2024-09-12 at 17 15 21" src="https://github.com/user-attachments/assets/425dd4cd-caac-4f62-82d7-e2d07d744818">
 
 
 #### -GCP-
 <img width="1470" alt="Screenshot 2024-09-11 at 15 03 01" src="https://github.com/user-attachments/assets/3eae2e1d-3866-4290-943b-59b68d34acaf">
+<img width="1470" alt="Screenshot 2024-09-12 at 17 13 01" src="https://github.com/user-attachments/assets/3de60b9f-398b-4231-ba7b-eea55c6e2e31">
 
 
 ### Compare the costs of running a VM in Azure versus GCP. Consider factors such as the configuration used, the duration for which the VM was active, and any differences in cost visibility between the platforms.
